@@ -43,7 +43,7 @@
     "cron": "1.0.1",
     "debug": "*",
     "eventemitter2": "0.4.13",
-    "pidusage": "^0.1.1",
+    "pidusage": "0.1.1",
     "pm2-interface": "0.1.0",
     "pm2-multimeter": "0.1.2",
     "watch": "0.8.0"
